@@ -121,7 +121,7 @@ routes/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/center-management-erp.git
+git clone https://github.com/sejalkailashyadav/KinderDash.git
 cd center-management-erp
 
 # 2. Install PHP & JS dependencies
@@ -164,7 +164,7 @@ php artisan serve
 
 ## 👨‍💻 Author
 
-Built with ❤️ by **\[Your Name]**,
+Built with ❤️ by **\[Sejal Yadav]**,
 Guided & structured with the help of ChatGPT.
 
 This ERP structure is inspired by real-world preschool operational needs and Laravel best practices.
@@ -185,9 +185,9 @@ This project is open-source. You're free to:
 
 If you want help deploying or selling this to schools:
 
-* 📧 Email: [you@example.com](mailto:you@example.com)
-* 🌐 Portfolio: yourportfolio.com
-* 💼 LinkedIn: linkedin.com/in/yourname
+* 📧 Email: [sejalyadav122@gmail.com](mailto:sejalyadav122@gmail.com)
+* 🌐 Portfolio: [sejalkailashyadav](https://sejalkailashyadav.netlify.app/)
+* 💼 LinkedIn: [sejalkailashyadav](https://www.linkedin.com/in/sejalkailashyadav/)
 
 ```
 
