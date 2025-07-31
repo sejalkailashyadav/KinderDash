@@ -41,7 +41,7 @@ This system solves all that using a clean, modular Laravel backend + Blade UI.
 
 ## 🧠 System Modules & Features
 
-### 🔐 Authentication
+### 🔐 Authentications
 - Role-based login (Admin, Manager)
 - Session-based access control
 - Login protection with CSRF + password hashing
