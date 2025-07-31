@@ -3,7 +3,7 @@
 A full-featured, **role-based education ERP** built in Laravel for organizations managing multiple preschool centers. This system allows seamless control over centers, classes, child records, and fee reporting — all within a centralized dashboard.
 
 🛠 Designed for:  
-- Preschool chains (like **Kids Learning**)  
+- Preschool chains (like **Kids Learning **)  
 - Government-supported childcare  
 - NGO-managed learning hubs  
 
