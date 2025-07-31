@@ -53,7 +53,7 @@ This system solves all that using a clean, modular Laravel backend + Blade UI.
 ### 📚 Class Management
 - Create/edit/delete classes
 - Assign classes to specific centers
-- Class Plans like "Happy Hoppers", "Infant 1 Day", etc.
+- Class Plans like "Happy Hoppers", "Infant 1 Day", etc
 
 ### 👶 Child Master
 - Add child details: Name, DOB, Parent Name, Mobile, Email
