@@ -183,7 +183,7 @@ This project is open-source. You're free to:
 
 ## 🔗 Let's Connect
 
-If you want help deploying or selling this to schools:
+If you want help deploying or selling this to schools *  child:
 
 * 📧 Email: [sejalyadav122@gmail.com](mailto:sejalyadav122@gmail.com)
 * 🌐 Portfolio: [sejalkailashyadav](https://sejalkailashyadav.netlify.app/)
