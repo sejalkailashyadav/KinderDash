@@ -14,7 +14,7 @@ This ERP enables Admins and Managers to collaboratively manage their responsibil
 ##  Core Use-Case
 
 Kids Learning runs **multiple childcare centers**, each with their own classes, children, and staff. Admins need:
-- A **central system** to control all centers
+- A **central system** to control all centers & classw
 - Local **managers** who can only access their own center’s data
 - Monthly **fee tracking** based on changing government subsidies (like CCFRI and ACCB)
 
